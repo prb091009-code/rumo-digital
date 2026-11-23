@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /rumo-digital/obrigado.html
+Sitemap: https://prb091009-code.github.io/rumo-digital/sitemap.xml

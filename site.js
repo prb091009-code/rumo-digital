@@ -1,7 +1,7 @@
 /* Rumo Digital — scripts do site (sem nenhuma chave secreta aqui) */
 {
   // ===== Configuração pública =====
-  const GA_ID = '';  // ID do Google Analytics 4 (ex.: G-ABC123XYZ). Vazio = não carrega nada.
+  const GA_ID = 'G-SNCYSRBL9N';  // ID do Google Analytics 4 (ex.: G-ABC123XYZ). Vazio = não carrega nada.
   const ENDPOINT = 'https://script.google.com/macros/s/AKfycbx2aU2V3wkFM6_wodKZBwkGOioRxiGF-3lnjzavrTGsbSUrYNA1nOseVGlr8KK3YCQzAA/exec';
 
   // ===== Consentimento de cookies (LGPD) + Google Analytics só após aceite =====
